@@ -75,6 +75,12 @@
   background-position: right;
 }
 
+.my-work__project--lunchmaatjes {
+  background-image: linear-gradient(to left, #000, #00000080, #000),
+    url(../img/lunchmaatjes.png);
+  background-position: right;
+}
+
 .my-work__project__screenshot {
   max-width: 90%;
   max-height: 90%;
